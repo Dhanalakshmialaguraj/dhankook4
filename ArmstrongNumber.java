@@ -1,7 +1,7 @@
 public class ArmstrongNumber {
 
     public static void main(String[] args) {
-        int number = 158;  
+        int number = 159;  
         int originalNumber = number;
         int sum = 0;
         int numberOfDigits = String.valueOf(number).length();
